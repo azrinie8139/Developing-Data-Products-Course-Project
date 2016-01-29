@@ -1,0 +1,30 @@
+---
+title: "BMI Calculator"
+author: "RINIE"
+date: "29 Januari 2016"
+output: slidy_presentation
+---
+
+## Overview
+
+This is a presentation about my Developing Data Products Course Project.
+
+The project is Body Mass Index (BMI) Calculator.
+
+## BMI Calculator
+
+How the BMI Calculator work?
+
+1. User will enter their height in centimeter and weight in kilogram
+2. Then, the apps will calculate the BMI Index by using formula weight / (height(meter)^2)
+3. Beside that, the apps also will tell the user BMI Category:
+  - BMI < 18.5 = Under Weight
+  - BMI 18.5-24.9 = Normal Weight
+  - BMI 25-29.9 = Over Weight
+  - BMI >30 = Obesity
+
+## The Output From The Apps
+
+The apps will show the height and weight entered by user and also BMI Index and BMI Category that calculate by the apps.
+
+## Thank You
